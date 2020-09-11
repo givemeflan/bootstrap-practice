@@ -11,7 +11,6 @@
     background-color: orange;
 }
 
-
 #nav-container {
     clear: both;
     margin: 0 auto;
@@ -40,19 +39,33 @@ ul li {
     float: right;
     font-size: 18px;
     margin-left: 50px;
-    background-color: pink;
 }
 
 #news-columns {
-    background-color: orange;
+    background-color: #F5F5F5;
 }
 
-.news-sections {
+#news-sections {
     margin-top: 20px;
+    padding-left: 40px;
+}
+
+#news-column2 {
+    border-left-style: solid;
+    border-width: 1px;
+}
+
+.news-sections-2 {
+    margin-top: 20px;
+    padding-left: 25px;
 }
 
 #headliner {
     text-align: center;
-    background-color: pink;
-    /* margin-top: 20px; */
+    margin-top: 20px;
+}
+
+#headline-image {
+    padding-left: 30px;
+    margin-bottom: 20px;
 }
