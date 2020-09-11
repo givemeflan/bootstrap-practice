@@ -1,8 +1,15 @@
 # bootstrap-practice
-This repository will hold projects where I practice Bootstrap, reset.css, Grid, and other frameworks
+This repository will hold projects where I practice Bootstrap, reset.css, Grid, and other frameworks.
+
+## The Project List
+- Faux Mock Newspaper Front page (faux-paper.html)
 
 
-## Resources 
+### Faux Mock Newspaper Front Page
+For this mini project or exercise, I used Bootstrap. I thought the framework was perfect for making an "old school" inspired newspaper type layout. I guess like I like the color orange lately! For those who are curious, I named my faux newspaper The Daily Cheese because cheese is a source of getting calcium daily just like how you can read the news daily! I know, corny :innocent: The headlines are relevant to the times, have to keep it real. 
+![faux-paper](https://user-images.githubusercontent.com/66345751/92938394-7bb4e080-f41a-11ea-8f17-84f1aa323267.JPG)
+
+### Resources 
 - Google Fonts Used: 
 1. https://fonts.google.com/specimen/Gravitas+One?query=gravitas&selection.family=Arvo|Gravitas+One|Merriweather|Roboto
 2. https://fonts.google.com/specimen/Roboto
