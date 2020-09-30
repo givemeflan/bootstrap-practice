@@ -23,3 +23,9 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 1. https://unsplash.com/photos/KLboRY8e1Sk
 2. https://unsplash.com/photos/vA1UgXr0QIY
 3. https://unsplash.com/photos/P8zDQz8Y2Vc
+
+- Food Quote Used:
+1. https://www.huffpost.com/entry/food-quotes-famous-eating_n_2481583 
+
+- Bakery Lorum Ipsum:
+1. http://www.cupcakeipsum.com/#/paragraphs/5/length/medium/with_love/false/start_with_cupcake/false/seed/feea20c0af3508c90796bc273b9267be2fb253d735bf16c0830efa5a3d1aadeb
