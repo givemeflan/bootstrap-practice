@@ -3,6 +3,7 @@ This repository will hold projects where I practice Bootstrap, reset.css, Grid, 
 
 ## The Project List
 - Faux Mock Newspaper Front page (faux-paper.html)
+- Mock About Us Page (mock-aboutus.html)
 
 
 ### Mock Newspaper Front Page 
