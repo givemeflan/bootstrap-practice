@@ -11,7 +11,7 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 
 
 ### Mock About Us Page
-I used bootstrap for this mock bakery about us website page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking! :bread:
+I used bootstrap for this mock bakery about us website page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking!
 ![mock-aboutus-page](https://user-images.githubusercontent.com/66345751/94740459-b38bb580-0340-11eb-9c71-cfa9113ff5a8.JPG)
 
 
