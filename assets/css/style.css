@@ -92,20 +92,21 @@ footer {
 
 
 /* MOCK ABOUT US WEBPAGE CSS*/
-body {
+.about-us-body {
 	background: url("../images/bakery.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
 }
 
-.navbar-brand {
-	font-size: 30px;
+#main-logo {
+	font-size: 36px;
 	margin-right: 40px;
-	margin-left: 10px;
-	color: blue;
+	margin-left: 14px;
+	/* font-family: 'Raleway', sans-serif; */
+	font-family: 'Cormorant', serif;
+	color: #835858;
 }
-
 
 .nav-link {
 	font-size: 18px;
@@ -115,10 +116,10 @@ body {
 .container {
 	/* background-color: #835858; */
 	background-color: white;
-	margin-top: 120px;
-	width: 900px;
-	padding: 50px;
-	opacity: 0.9;
+	margin-top: 110px;
+	width: 907px;
+	padding: 53px;
+	opacity: 0.85;
 }
 
 #col-1 {
@@ -130,9 +131,39 @@ body {
 	text-align: justify;
 }
 
-#col-title {}
+#col-title1 {
+	font-family: 'Merriweather', serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+#julia-child {
+	font-family: 'Merriweather', serif;
+	font-size: 31px;
+	margin-top: -10px;
+}
 
 #col-title2 {
-	padding-bottom: 20px;
+	padding-bottom: 17px;
 	text-align: center;
+	color: #835858;
+	font-family: 'Raleway', sans-serif;
+}
+
+#mission-statement {
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+}
+
+.footer-bottom {
+	background-color: black;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	position: fixed;
+	padding-top: 7px;
+}
+
+.footer-style {
+	font-size: 15px;
 }
