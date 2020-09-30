@@ -89,3 +89,31 @@ footer {
 	padding-top: 15px;
 	color: #ff7400;
 }
+
+
+/* Mock About Us */
+body {
+	background-color: #835858;
+}
+
+
+.navbar-brand {
+	font-size: 30px;
+	margin-right: 40px;
+	margin-left: 10px;
+	color: blue;
+}
+
+.navbar-nav {}
+
+
+.nav-link {
+	font-size: 18px;
+	color: red;
+}
+
+.container {
+	/* background-color: #835858; */
+	background-color: red;
+	margin-top: 100px;
+}
