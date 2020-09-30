@@ -17,7 +17,9 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 - Color Palettes/Colors Used: 
 1. https://encycolorpedia.com/fffafa
 2. https://www.color-hex.com/color-palette/4699
+3. https://colorhunt.co/palette/206782
 
 - Stock photos that were used:
 1. https://unsplash.com/photos/KLboRY8e1Sk
 2. https://unsplash.com/photos/vA1UgXr0QIY
+3. https://unsplash.com/photos/P8zDQz8Y2Vc
