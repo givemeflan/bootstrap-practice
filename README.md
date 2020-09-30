@@ -13,6 +13,8 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 - Google Fonts Used: 
 1. https://fonts.google.com/specimen/Gravitas+One?query=gravitas&selection.family=Arvo|Gravitas+One|Merriweather|Roboto
 2. https://fonts.google.com/specimen/Roboto
+3. https://fonts.google.com/specimen/Merriweather?sidebar.open=true&selection.family=Merriweather
+4. https://fonts.google.com/specimen/Raleway?sidebar.open=true&selection.family=Raleway:wght@500
 
 - Color Palettes/Colors Used: 
 1. https://encycolorpedia.com/fffafa
