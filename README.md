@@ -7,18 +7,18 @@ This repository will hold projects where I practice Bootstrap, reset.css, Grid, 
 
 
 ### Mock Newspaper Front Page 
-For this mini project or exercise, I used Bootstrap. I thought the framework was perfect for making an "old school" inspired newspaper type layout. I guess like I like the color orange lately! For those who are curious, I named my faux newspaper The Daily Cheese because cheese is a source of getting calcium daily just like how you can read the news daily! I know, corny :innocent: The headlines are relevant to the times, have to keep it real. 
-![faux-paper](https://user-images.githubusercontent.com/66345751/92938394-7bb4e080-f41a-11ea-8f17-84f1aa323267.JPG)
+For this mini project or exercise, I used Bootstrap. I thought the framework was perfect for making an "old school" inspired newspaper type layout.The headlines are relevant to the times. 
+![faux-paper](https://user-images.githubusercontent.com/66345751/94755871-f27f3280-0363-11eb-8c0d-ba31d8287d53.JPG)
 
 
 ### Mock About Us Page
-I used bootstrap for this mock bakery about us website page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking!
+I wanted to make a mock bakery website about us page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking :bread: Bootstrap is used here.
 ![mock-aboutus-page](https://user-images.githubusercontent.com/66345751/94740459-b38bb580-0340-11eb-9c71-cfa9113ff5a8.JPG)
 
 
 ### Resources 
 - Google Fonts Used: 
-1. https://fonts.google.com/specimen/Gravitas+One?query=gravitas&selection.family=Arvo|Gravitas+One|Merriweather|Roboto
+1. https://fonts.google.com/specimen/Playfair+Display?sidebar.open=true&selection.family=Playfair+Display:wght@500
 2. https://fonts.google.com/specimen/Roboto
 3. https://fonts.google.com/specimen/Merriweather?sidebar.open=true&selection.family=Merriweather
 4. https://fonts.google.com/specimen/Raleway?sidebar.open=true&selection.family=Raleway:wght@500
