@@ -1,15 +1,17 @@
 /* Faux Mock Newspaper Front Page CSS */
 
-.container {
+.container-row {
 	background-color: hsl(0, 0%, 96%);
+	width: 78%;
+	margin: 0 auto;
 }
 
 #main-title {
 	text-align: center;
 	margin-top: 30px;
-	color: #ff7400;
+	color: #0f3057;
 	font-size: 50px;
-	font-family: 'Gravitas One', cursive;
+	font-family: 'Playfair Display', serif;
 }
 
 #nav-container {
@@ -39,7 +41,7 @@ ul li {
 	float: right;
 	font-size: 18px;
 	margin-left: 50px;
-	color: #ff7400;
+	color: #0f3057;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -56,6 +58,7 @@ ul li {
 #news-column2 {
 	border-left-style: solid;
 	border-width: 1px;
+	width: 80%;
 }
 
 .news-sections-2 {
@@ -66,8 +69,8 @@ ul li {
 #headliner {
 	text-align: center;
 	margin-top: 20px;
-	font-size: 29px;
-	font-weight: 450;
+	font-size: 25px;
+	font-weight: 490;
 	padding-bottom: 5px;
 }
 
@@ -76,7 +79,6 @@ ul li {
 }
 
 footer {
-	width: 100%;
 	bottom: 0;
 	background-color: #C0C0C0;
 }
@@ -86,7 +88,7 @@ footer {
 	font-size: 16px;
 	text-align: center;
 	padding: 5px 0;
-	padding-top: 15px;
+	padding-top: 12px;
 	color: #ff7400;
 }
 
@@ -114,7 +116,6 @@ footer {
 }
 
 .container {
-	/* background-color: #835858; */
 	background-color: white;
 	margin-top: 110px;
 	width: 907px;
