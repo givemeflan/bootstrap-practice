@@ -17,6 +17,10 @@ I wanted to make a mock bakery website about us page. If I ever owned a bakery, 
 
 
 ### Resources 
+
+- Bootstrap 
+1. https://getbootstrap.com/
+
 - Google Fonts Used: 
 1. https://fonts.google.com/specimen/Playfair+Display?sidebar.open=true&selection.family=Playfair+Display:wght@500
 2. https://fonts.google.com/specimen/Roboto
