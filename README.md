@@ -26,7 +26,7 @@ I wanted to make a mock bakery website about us page. If I ever owned a bakery, 
 
 - Color Palettes/Colors Used: 
 1. https://encycolorpedia.com/fffafa
-2. https://www.color-hex.com/color-palette/4699
+2. https://colorhunt.co/palette/206727
 3. https://colorhunt.co/palette/206782
 
 - Stock photos that were used:
