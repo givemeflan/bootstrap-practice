@@ -170,44 +170,8 @@ footer {
 }
 
 /* MEDIA-QUERIES.HTML CSS  */
-div {
-	height: 200px;
-	width: 200px;
-	background-color: green;
+
+#product-body {
+	background-color: #FFFFFF;
 }
 
-@media screen and (max-width: 768px) {
-	div {
-		height: 400px;
-		background-color: red;
-	}
-}
-
-*box-sizing:border-box;
-}
-body{
-	background:#ccc;
-	font-size: 18px;
-	line-height: 27px;
-}
-
-.wrapper{
-	width: 1024px;
-	margin:40px auto;
-}
-
-#main-content,
-#sidebar{
-	width:500px;
-	padding:30px;
-}
-
-#main-content{
-	float:left;
-	background:#fff;
-}
-
-#sidebar{
-	float:right;
-	background:#eee;
-}
