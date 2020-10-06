@@ -37,6 +37,7 @@ I wanted to make a mock bakery website about us page. If I ever owned a bakery, 
 1. https://unsplash.com/photos/KLboRY8e1Sk
 2. https://unsplash.com/photos/vA1UgXr0QIY
 3. https://unsplash.com/photos/P8zDQz8Y2Vc
+4. https://unsplash.com/photos/moBQMk---6g
 
 - Food Quote Used:
 1. https://www.huffpost.com/entry/food-quotes-famous-eating_n_2481583 
