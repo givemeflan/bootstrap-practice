@@ -105,7 +105,6 @@ footer {
 	font-size: 36px;
 	margin-right: 40px;
 	margin-left: 14px;
-	/* font-family: 'Raleway', sans-serif; */
 	font-family: 'Cormorant', serif;
 	color: #835858;
 }
@@ -169,9 +168,52 @@ footer {
 	font-size: 15px;
 }
 
-/* MEDIA-QUERIES.HTML CSS  */
-
-#product-body {
+/* mock-productpage.HTML CSS  */
+#bread-section {
 	background-color: #FFFFFF;
+	margin-top: 10px;
+	width: 1200px;
+	padding: 53px;
+
 }
 
+
+#product-row {
+	background-color: #F8F9FA;
+}
+
+#pic-col {
+	/* padding-top: 55px;
+	text-align: center; */
+	background: url("../images/bread.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 450px;
+}
+
+/* #bread-pic {
+	height: 300px;
+	width: 300px;
+} */
+
+#product-detail {
+	text-align: justify;
+}
+
+
+#product-title {
+	padding-bottom: 17px;
+	text-align: center;
+	color: #835858;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	margin-top: 40px;
+}
+
+#bread-info {
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+	width: 78%;
+	margin: 0 auto;
+	text-align: justify;
+}
