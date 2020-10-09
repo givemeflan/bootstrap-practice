@@ -14,7 +14,7 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 ### Mock About Us Page & Product Page
 I wanted to make a mock bakery website about us page and product page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking :bread: Bootstrap is used here.
 ![mock-aboutus-page](https://user-images.githubusercontent.com/66345751/94740459-b38bb580-0340-11eb-9c71-cfa9113ff5a8.JPG)
-![mock-productpage](https://user-images.githubusercontent.com/66345751/95530621-503afc80-09ac-11eb-9df8-3d17c7631dca.JPG)
+![mock-productpage](https://user-images.githubusercontent.com/66345751/95530757-ac9e1c00-09ac-11eb-85e9-ffb69a2b45ac.JPG)
 
 
 ### Resources 
