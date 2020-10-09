@@ -39,6 +39,9 @@ I wanted to make a mock bakery website about us page. If I ever owned a bakery, 
 3. https://unsplash.com/photos/P8zDQz8Y2Vc
 4. https://unsplash.com/photos/moBQMk---6g
 
+- CSS Star Rating: 
+1. https://www.w3schools.com/howto/howto_css_star_rating.asp 
+
 - Food Quote Used:
 1. https://www.huffpost.com/entry/food-quotes-famous-eating_n_2481583 
 
