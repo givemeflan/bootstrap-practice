@@ -3,7 +3,7 @@ This repository will hold projects where I practice Bootstrap, reset.css, Grid, 
 
 ## The Project List
 - Faux Mock Newspaper Front page (faux-paper.html)
-- Mock About Us Page (mock-aboutus.html)
+- Mock About Us Page & Product Page (mock-aboutus.html & mock-productpage.html)
 
 
 ### Mock Newspaper Front Page 
@@ -11,9 +11,10 @@ For this mini project or exercise, I used Bootstrap. I thought the framework was
 ![faux-paper](https://user-images.githubusercontent.com/66345751/94755871-f27f3280-0363-11eb-8c0d-ba31d8287d53.JPG)
 
 
-### Mock About Us Page
-I wanted to make a mock bakery website about us page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking :bread: Bootstrap is used here.
+### Mock About Us Page & Product Page
+I wanted to make a mock bakery website about us page and product page. If I ever owned a bakery, I would definitely name it Sucre et Sel. Sugar and salt is important in baking :bread: Bootstrap is used here.
 ![mock-aboutus-page](https://user-images.githubusercontent.com/66345751/94740459-b38bb580-0340-11eb-9c71-cfa9113ff5a8.JPG)
+![mock-productpage](https://user-images.githubusercontent.com/66345751/95530621-503afc80-09ac-11eb-9df8-3d17c7631dca.JPG)
 
 
 ### Resources 
