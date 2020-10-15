@@ -249,3 +249,13 @@ footer {
 .checked {
 	color: yellow;
 }
+
+/* media-queries.html CSS */
+
+}
+
+@media screen and (max-width:768px) {
+	body {
+		display: block;
+	}
+}
