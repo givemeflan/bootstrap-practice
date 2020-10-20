@@ -94,6 +94,7 @@ footer {
 
 
 /* MOCK ABOUT US WEBPAGE CSS*/
+
 .about-us-body {
 	background: url("../images/bakery.jpg");
 	background-repeat: no-repeat;
@@ -170,6 +171,7 @@ footer {
 
 
 /* mock-productpage.HTML CSS  */
+
 #bread-section {
 	background-color: #FFFFFF;
 	margin-top: 10px;
@@ -227,11 +229,13 @@ footer {
 }
 
 #add-to-cart {
-	width: 75%;
+	width: 74%;
 	margin: 0 auto;
-	margin-top: 30px;
+	margin-top: 25px;
 	text-align: center;
 	background-color: #835858;
+	padding: 8px;
+	margin-bottom: 20px;
 }
 
 #addtocart-button {
@@ -250,12 +254,58 @@ footer {
 	color: yellow;
 }
 
+
 /* media-queries.html CSS */
 
+#bread-info-2 {
+	font-size: 16px;
+	font-family: 'Merriweather', serif;
+	width: 78%;
+	margin: 0 auto;
+	text-align: justify;
+	line-height: 26px;
+	padding-top: 10px;
 }
 
-@media screen and (max-width:768px) {
-	body {
-		width: 400px;
-	}
+#add-to-cart-2 {
+	width: 75%;
+	margin: 0 auto;
+	margin-top: 30px;
+	text-align: center;
+	background-color: #835858;
+	padding: 12px;
+}
+
+#addtocart-button-2 {
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+
+
+.footer-bottom-2 {
+	background-color: black;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	position: fixed;
+	padding-top: 12px;
+	padding-bottom: 15px;
+}
+
+#product-col-3 {
+	text-align: right;
+	font-weight: 600;
+	font-family: 'Raleway', sans-serif;
+}
+
+#star-sec {
+	padding-top: 8px;
+}
+
+.footer-style-2 {
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
 }
