@@ -311,8 +311,34 @@ footer {
 }
 
 
-@media (max-width:600px) and (min-width:1200px) {
+@media (max-width:768px) {
 	#product-title {
 		text-align: left;
+		background-color: blue;
 	}
+
+	#bread-info-2 {
+		text-align: left;
+		line-height: 26px;
+		padding-top: 10px;
+		background-color: red;
+	}
+
+	#pic-col {
+		/* height: 200px; */
+
+	}
+
+	#product-body {
+		height: 600px;
+		/* width: 300px; */
+	}
+
+	#add-to-cart-2 {
+		width: 30%;
+		
+	}
+
+
+
 }
