@@ -18,8 +18,8 @@ I wanted to make a mock bakery website about us page and product page. If I ever
 
 ### Resources 
 
-- Bootstrap 
-1. https://getbootstrap.com/
+- Bootstrap CDN: 
+1. https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 - Google Fonts Used: 
 1. https://fonts.google.com/specimen/Playfair+Display?sidebar.open=true&selection.family=Playfair+Display:wght@500
