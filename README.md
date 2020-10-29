@@ -1,6 +1,5 @@
 # bootstrap-practice
-This repository will hold projects where I practice Bootstrap, reset.css, Grid, and other frameworks.
-
+This repository will hold projects where I will be using Boostrap CDN & grid. 
 ## The Project List
 - Faux Mock Newspaper Front page (faux-paper.html)
 - Mock About Us Page & Product Page (mock-aboutus.html & mock-productpage.html)
